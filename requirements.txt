@@ -1,0 +1,14 @@
+google-api-python-client
+python-dotenv
+pandas
+streamlit
+matplotlib
+seaborn
+notebook
+isodate
+textblob
+scikit-learn
+nltk
+wordcloud
+plotly
+altair
